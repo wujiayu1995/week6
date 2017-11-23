@@ -1,0 +1,25 @@
+.bg-black{
+     background-color: black;
+}
+.bg-blue{
+     background-color: blue;
+}
+.bg-gray{
+     background-color: gray;
+}
+.bg-red{
+     background-color: red;
+}
+.swatches li {
+    
+    border-radius:50%;
+    height:1rem;
+    width:1rem;
+    float:left;
+    margin: 1em;
+    list-style-type: none;
+}
+
+.content {padding-top: 3rem;}
+
+body {padding-left: 5rem;}
